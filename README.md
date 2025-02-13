@@ -59,7 +59,7 @@ Your solution will be judged on two points:
 # The bounty awards structure
 
 - A winning solution and a runner-up will be chosen based on the judgment criteria.
-- A winning solution will receive a bounty of $1000 worth of stablecoins for successfully completing the core task.
+- A winning solution will receive a bounty of $1500 worth of stablecoins for successfully completing the core task.
 - The runner-up will receive a bounty of $500 worth of stablecoins for successfully completing the core task..
 - An additional bounty will be added to both the winner's and the runner's-up core bounty of they choose to pursue and succeed in successfully completing each optional challenge.
 - For the FIRST optional challenge, $200 worth of stablecoins will be added to the award amount for its successful completion.
